@@ -21,7 +21,7 @@ aPackageInfo = [
 		]
 	],
 	:files = 	[
-		"main.ring",
+		"main.ring"
 	],
 	:ringfolderfiles = 	[
 		"applications/laser/images/lasergame.png",
